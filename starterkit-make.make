@@ -146,6 +146,3 @@ libraries[modernizr][type] = "libraries"
 libraries[modernizr][download][type] = "file"
 libraries[modernizr][download][url] = "https://github.com/Jbartsch/modernizr/archive/master.zip"
 
-libraries[underscore][type] = "libraries"
-libraries[underscore][download][type] = "file"
-libraries[underscore][download][url] = "https://github.com/jashkenas/underscore/archive/1.4.4.zip"
