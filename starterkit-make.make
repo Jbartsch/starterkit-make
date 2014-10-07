@@ -128,7 +128,7 @@ projects[views_bootstrap][subdir] = "contrib"
 
 ; Themes
 ; --------
-projects[bootstrap][version] = 7.x-3.0
+;projects[bootstrap][version] = 7.x-3.0
 projects[bootstrap][type] = "theme"
 projects[bootstrap][subdir] = "contrib"
 
