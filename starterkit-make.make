@@ -128,11 +128,11 @@ projects[views_bootstrap][subdir] = "contrib"
 
 ; Themes
 ; --------
-;projects[bootstrap][version] = 7.x-3.0
+;projects[bootstrap][version] = 3.0
 projects[bootstrap][type] = "theme"
 projects[bootstrap][subdir] = "contrib"
 
-projects[adminimal_theme][version] = 7.x-1.17
+projects[adminimal_theme][version] = 1.17
 projects[adminimal_theme][type] = "theme"
 projects[adminimal_theme][subdir] = "contrib"
 
